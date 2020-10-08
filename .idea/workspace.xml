@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d9e9f78d-888c-4204-b58a-ad7a0817c45e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kevinfloresNET/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/kevinfloresNET/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kevinfloresNET/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kevinfloresNET/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kevinfloresNET/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602140089431</updated>
-      <workItem from="1602140090480" duration="3281000" />
+      <workItem from="1602140090480" duration="3997000" />
     </task>
     <task id="LOCAL-00001" summary="changing file directory">
       <created>1602141571471</created>
@@ -63,25 +81,44 @@
       <option name="project" value="LOCAL" />
       <updated>1602141704014</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="playing">
+      <created>1602147581276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602147581276</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changing file directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing file directory" />
+    <MESSAGE value="playing" />
+    <option name="LAST_COMMIT_MESSAGE" value="playing" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2296" y="156" key="CommitChangelistDialog2" timestamp="1602141703559">
+    <state x="1569" y="86" width="1277" height="931" key="CommitChangelistDialog2" timestamp="1602147580825">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
-    <state x="2296" y="156" key="CommitChangelistDialog2/0.0.3840.1040/-1920.-233.1920.1040/1010.-1080.1920.1040@0.0.3840.1040" timestamp="1602141703559" />
-    <state x="2263" y="312" key="Vcs.Push.Dialog.v2" timestamp="1602141706412">
+    <state x="1569" y="86" width="1277" height="931" key="CommitChangelistDialog2/0.0.3840.1040/-1920.-233.1920.1040/1010.-1080.1920.1040@0.0.3840.1040" timestamp="1602147580825" />
+    <state x="2263" y="312" key="Vcs.Push.Dialog.v2" timestamp="1602154543398">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
-    <state x="2263" y="312" key="Vcs.Push.Dialog.v2/0.0.3840.1040/-1920.-233.1920.1040/1010.-1080.1920.1040@0.0.3840.1040" timestamp="1602141706412" />
+    <state x="2263" y="312" key="Vcs.Push.Dialog.v2/0.0.3840.1040/-1920.-233.1920.1040/1010.-1080.1920.1040@0.0.3840.1040" timestamp="1602154543398" />
     <state x="2488" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602141535309">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
